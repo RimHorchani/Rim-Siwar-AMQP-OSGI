@@ -1,4 +1,5 @@
 # Rim-Siwar-AMQP-OSGI
+Ce projet est élaboré par Rim Horchani et Siwar belhaj Mohamed.
 
 Step 1 — Download and extract Karaf: 
 Download the last Stable Version from https://karaf.apache.org/download.html 
